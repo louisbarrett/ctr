@@ -20,7 +20,6 @@ For example:
 
 ?url=https://github.com/angea/pocorgtfo/raw/master/contents/articles/05-05.pdf  
 
-This will return the content-type of the Google homepage as "text/html".
 
 
 # Installation:  
