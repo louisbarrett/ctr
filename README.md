@@ -1,7 +1,7 @@
 
-#content-type header rewrite
+# Content-Type Rewrite Proxy
 
-This is a content-type proxy that rewrites data from the a url to the desired content-type.  
+This is a content-type rewrite proxy that rewrites data from the a url to the desired content-type.  
 
 # Usage:  
 
