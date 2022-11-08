@@ -25,7 +25,7 @@ func main() {
 	http.Handle("/", r)
 	r.HandleFunc("/api/{content-type}/", contentTypeProxy).Methods("GET")
 	r.HandleFunc("/api/", contentTypeProxy).Methods("GET")
-	fmt.Println("Listening on port", webServerPort)
+	fmt.Println("Listening on port", *webServerPort)
 	log.Fatal(http.ListenAndServe(*webServerPort, r))
 }
 
