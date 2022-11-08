@@ -1,0 +1,78 @@
+
+application/x-7z-compressed - .7z 7-zip archive application
+application/x-abiword - .abw AbiWord document application
+application/atom+xml - .xml XML application
+application/epub+zip - .epub Electronic publication (EPUB) application
+application/excel - .xls Microsoft Excel application
+application/font-woff - .woff Web Open Font Format (WOFF) font
+application/java-archive - .jar Java Archive (JAR) application
+application/javascript - .mjs JavaScript module text
+application/ld+json - .jsonld JSON-LD format application
+application/mspowerpoint - .ppt Microsoft PowerPoint application
+application/msword - .doc Microsoft Word application
+application/octet-stream - .bin Any kind of binary data application
+application/ogg - .ogx OGG application
+application/pdf - .pdf Adobe Portable Document Format (PDF) application
+application/postscript - .ai Adobe Illustrator document application
+application/rtf - .rtf Rich Text Format (RTF) application
+application/sh - .sh Bourne shell script application
+application/svg+xml - .svg Scalable Vector Graphics (SVG) image
+application/tar - .tar Tape Archive (TAR) application
+application/vnd.apple.installer+xml - .mpkg Apple Installer Package application
+application/vnd.ms-fontobject - .eot MS Embedded OpenType fonts application
+application/vnd.ms-excel - .xlsx Microsoft Excel (OpenXML) application
+application/vnd.ms-powerpoint - .pptx Microsoft PowerPoint (OpenXML) application
+application/vnd.mozilla.xul+xml - .xul XUL application
+application/vnd.oasis.opendocument.presentation - .odp OpenDocument presentation document
+application/vnd.oasis.opendocument.spreadsheet - .ods OpenDocument spreadsheet document
+application/vnd.oasis.opendocument.text - .odt OpenDocument text document application
+application/vnd.rar - .rar RAR archive application
+application/vnd.visio - .vsd Microsoft Visio application
+application/x-bzip - .bz BZip archive application
+application/x-bzip2 - .bz2 BZip2 archive application
+application/x-cdf - .cda CD audio application
+application/x-freearc - .arc Archive document (multiple files embedded) application
+application/x-httpd-php - .php Hypertext Preprocessor (Personal Home Page) application
+application/x-sh - .csh C-Shell script application
+application/x-tar - .csh C-Shell script application
+application/x-troff-msvideo - .avi AVI: Audio Video Interleave video
+application/x-troff-msvideo - .avi AVI: Audio Video Interleave video
+application/x-troff-msvideo - .avi AVI: Audio Video Interleave video
+audio/3gpp - .3g2 3GPP2 audio/video container video
+audio/3gpp - .3g2 3GPP2 audio/video container video
+audio/3gpp - .3gp 3GPP audio/video container video
+audio/aac - .aac AAC audio audio
+audio/flac - .flac Free Lossless Audio Codec (FLAC) audio
+audio/midi - .mid .midi Musical Instrument Digital Interface (MIDI) audio
+audio/mpeg - .mp3 MP3 audio audio
+audio/ogg - .oga OGG audio audio
+audio/opus - .opus Opus audio audio
+audio/webm - .weba WEBM audio audio
+audio/x-midi - .mid .midi Musical Instrument Digital Interface (MIDI) audio
+font/otf - .otf OpenType font font
+font/ttf - .ttf TrueType Font font
+font/woff - .woff Web Open Font Format (WOFF) font
+font/woff2 - .woff2 Web Open Font Format (WOFF) font
+image/avif - .avif AVIF image image
+image/bmp - .bmp Windows OS/2 Bitmap Graphics image
+image/gif - .gif Graphics Interchange Format (GIF) image
+image/jpeg - .jpeg .jpg JPEG images image
+image/png - .png Portable Network Graphics image
+image/svg+xml - .svg Scalable Vector Graphics (SVG) image
+image/tiff - .tif .tiff Tagged Image File Format (TIFF) image
+image/vnd.microsoft.icon - .ico Icon format image
+image/webp - .webp WEBP image image
+text/calendar - .ics iCalendar format text
+text/css - .css Cascading Style Sheets (CSS) text
+text/csv - .csv Comma-separated values (CSV) text
+text/html - .htm .html HyperText Markup Language (HTML) text
+text/javascript - .js JavaScript text
+text/plain - .txt Text, (generally ASCII or ISO 8859-n) text
+video/3gpp - .3gp 3GPP audio/video container video
+video/3gpp2 - .3g2 3GPP2 audio/video container video
+video/mp2t - .ts MPEG transport stream video
+video/mp4 - .mp4 MP4 video video
+video/mpeg - .mpeg MPEG Video video
+video/ogg - .ogv OGG video video
+video/webm - .webm WEBM video video
+video/x-msvideo - .avi AVI: Audio Video Interleave video
